@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"C:/tools/MinGW/msys/1.0/home/Eric Cornet/vagrant/ansible","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
