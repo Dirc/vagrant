@@ -1,0 +1,9 @@
+---
+- name: Hello Ansible - quick start
+  hosts: localhost
+  user: vagrant
+  become: yes
+
+  tasks:
+    - name: Hello Server
+      shell: date >> now.txt
